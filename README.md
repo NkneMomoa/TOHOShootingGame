@@ -1,2 +1,2 @@
 # Simple Shooting Game Project
-first Unity game built in college
+Unity game built in college
